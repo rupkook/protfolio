@@ -1,0 +1,120 @@
+{
+    "name": "Ruponti",
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "I'm Ruponti - curious",
+    "headerTaglineThree": "Front-End developer",
+    "showBlog": true,
+    "darkMode": true,
+    "socials": [
+      {
+        "id": "1",
+        "title": "Github",
+        "link": "https://github.com/rupkook"
+      },
+      {
+        "id": "2",
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/in/safoana-ruponti-54a1732a1/"
+      },
+      {
+        "id": "3",
+        "title": "Instagram",
+        "link": "https://www.instagram.com/rup0nti97_/"
+      },
+      { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
+      { "id": "5", "title": "Email", "link": "mailto:hello@chetanverma.com" }
+    ],
+    "projects": [
+      {
+        "id": "1",
+        "title": "Summer Sale",
+        "description": "Web Development",
+        "imageSrc": "https://i.ibb.co/7zMWtmj/536b99a54342a8988ba86ea6dabb2f95.jpg",
+        "url": "https://rupkook.github.io/assignment-5/" 
+      },
+      {
+        "id": "2",
+        "title": "PH Tube",
+        "description": "Web Development",
+        "imageSrc": "https://i.ibb.co/7zMWtmj/536b99a54342a8988ba86ea6dabb2f95.jpg",
+        "url": "https://coruscating-medovik-e14976.netlify.app/"
+      },
+      {
+        "id": "3",
+        "title": "Project Three",
+        "description": "Web Development",
+        "imageSrc": "https://i.ibb.co/7zMWtmj/536b99a54342a8988ba86ea6dabb2f95.jpg",
+        "url": "https://teal-tartufo-c2ad45.netlify.app/"
+      },
+      {
+        "id": "4",
+        "title": "Donation Campaign",
+        "description": "Web Development",
+        "imageSrc": "https://i.ibb.co/7zMWtmj/536b99a54342a8988ba86ea6dabb2f95.jpg",
+        "url": "https://stupendous-crisp-e5efbd.netlify.app/singleCard/3"
+      },
+      {
+        "id": "5",
+        "title": "Bicare",
+        "description": "Web Development",
+        "imageSrc": "https://i.ibb.co/7zMWtmj/536b99a54342a8988ba86ea6dabb2f95.jpg",
+        "url": "https://jovial-squirrel-1279c4.netlify.app/"
+      },
+      {
+        "id": "6",
+        "title": "Natural beauty",
+        "description": "Web Development",
+        "imageSrc": "https://i.ibb.co/7zMWtmj/536b99a54342a8988ba86ea6dabb2f95.jpg",
+        "url": " https://assignment-10-ea1c5.web.app"
+      },
+      {
+        "id": "7",
+        "title": "Book Store",
+        "description": "Web Development",
+        "imageSrc": "https://i.ibb.co/7zMWtmj/536b99a54342a8988ba86ea6dabb2f95.jpg",
+        "url": "https://assignment-11-52a9b.web.app"
+      },
+      {
+        "id": "8",
+        "title": "Track me",
+        "description": "Web Development",
+        "imageSrc": "https://i.ibb.co/7zMWtmj/536b99a54342a8988ba86ea6dabb2f95.jpg",
+        "url": "https://assignment---12.web.app/"
+      }
+    ],
+    "services": [
+      {
+        "id": "1",
+        "title": "Art Direction",
+        "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+      },
+      {
+        "id": "2",
+        "title": "Branding",
+        "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+      },
+      {
+        "id": "3",
+        "title": "Web Design",
+        "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+      },
+      {
+        "id": "4",
+        "title": "3D Design",
+        "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+      }
+    ],
+    "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "resume": {
+      "tagline": "👋  I'm a Front-End developer.",
+      "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+      "education": {
+        "universityName": "Shymoli Ideal polytechnic institute",
+        "universityDate": "2016-2020",
+        "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+      },
+      "languages": ["Javascript", "HTML5", "CSS"],
+      "frameworks": ["React", "NodeJs", "TailwindCSS"]
+    }
+  }
+  
